@@ -1,0 +1,3 @@
+Bundle-Name: liferay-lifecycle-events
+Bundle-SymbolicName: com.chberndt.liferay.lifecycle.events
+Bundle-Version: 1.0.0
